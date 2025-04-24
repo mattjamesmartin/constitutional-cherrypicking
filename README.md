@@ -1,4 +1,14 @@
-# Pubcon Processing and Analysis Code
+# Constitutional Cherry-Picking Replication Materials
+
+This repository contains the replication materials for the manuscript Constitutional Cherry-picking: How Drafters Leverage Public Input in Constitution-Making. The files include:
+
+- Processed transcripts of constitutional deliberations from Chile (2021–22) and Cuba (2018–19), annotated with metadata.
+- N-gram search tool used to identify and classify references to public input.
+- Categorical tagging scheme and annotated results for six rhetorical uses of public input: Citation, Justification, Rejection, Legitimacy, Agenda-Setting, and Critique.
+- Scripts for data extraction, analysis, and visualization, including semantic similarity scoring and metadata integration.
+- This README file with step-by-step instructions for reproducing the analysis.
+
+These materials enable full replication of the paper’s findings and support further exploration of how public consultation is invoked during constitutional negotiations. All code is written in Python and designed for compatibility with Jupyter Notebooks.
 
 ## Quick Start
 
